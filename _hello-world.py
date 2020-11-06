@@ -1,4 +1,4 @@
-# Hello World - by ToxDK
+# Hello, World! - by ToxDK
 # hello-world.py
 
 print("Hello, World!")
